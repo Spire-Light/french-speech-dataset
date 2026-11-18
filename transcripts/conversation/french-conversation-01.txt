@@ -1,0 +1,222 @@
+French Dialogue 01
+Language: French
+Duration: 00:31:26.5
+Speakers: 2
+Machine transcription: ElevenLabs Scribe v2, word-level timestamps (see transcript.json). Not human-reviewed.
+
+[00:00:01.5 - 00:00:06.6] Speaker 2: Bonjour. Euh, vous devez être Madame Leïla de la société SpeedGo Delivery.
+[00:00:07.8 - 00:00:14.7] Speaker 1: Oui, exactement. Enchantée Nadia. Merci de me recevoir dans notre, dans votre res-restaurant.
+[00:00:16.2 - 00:00:26.2] Speaker 2: Bienvenue. J'ai entendu parler de votre service par un autre, euh, restaurateur du quartier. Je cherche actuellement une société de livraison fiable.
+[00:00:27.5 - 00:00:35.8] Speaker 1: Parfait. Nous travaillons déjà avec plusieurs restaurants, euh, dans cette zone. Pouvez-vous me parler un peu de votre activité ?
+[00:00:37.6 - 00:00:48.8] Speaker 2: Bien sûr, euh, nous sommes spécialisés en cuisine maison, plats traditionnels et sandwichs. Euh, nous recevons beaucoup de commandes par téléphone, mais nous voulons développer la livraison.
+[00:00:50.9 - 00:00:54.6] Speaker 1: Très bien. En moyenne, combien de commandes par jour ?
+[00:00:57.1 - 00:01:03.1] Speaker 2: Euh, en semaine, environ 25 à 30 commandes. Le week-end, cela peut monter jusqu'à 50.
+[00:01:04.4 - 00:01:11.6] Speaker 1: C'est un volume intéressant. Euh, souhaitez-vous, euh, une livraison toute la journée ou uniquement pendant certaines heures ?
+[00:01:13.5 - 00:01:19.0] Speaker 2: Principalement entre 11 h 30 et 15 h, puis entre 18 h et 22 h.
+[00:01:20.3 - 00:01:26.4] Speaker 1: Ce sont des heures de forte demande. Euh, nous avons des livreuses disponibles sur ces créneaux.
+[00:01:28.5 - 00:01:34.6] Speaker 2: Très bien. Parlons maintenant de la commission. Quel pourcentage prenez-vous sur chaque commande ?
+[00:01:35.7 - 00:01:40.4] Speaker 1: Notre commission standard est de 20 % par com-commande.
+[00:01:42.1 - 00:01:44.9] Speaker 2: 20 % ? Cela me semble un peu élevé.
+[00:01:46.3 - 00:01:55.2] Speaker 1: Cela, euh, inclut la gestion des livreuses, euh, le carbu-- le carburant, euh, l'assurance et le service client.
+[00:01:57.0 - 00:02:03.6] Speaker 2: Je comprends, mais mes marges ne sont pas très ele-élevées. Serait-il possible de négocier ?
+[00:02:04.9 - 00:02:06.3] Speaker 1: Tout dépend du volume
+[00:02:07.2 - 00:02:10.4] Speaker 1: mensuel et de l'engagement contractuel.
+[00:02:12.5 - 00:02:17.8] Speaker 2: Euh, si je m'engage sur un contrat de trois mois, pouvez-vous réduire la commission ?
+[00:02:18.7 - 00:02:29.6] Speaker 1: Peut-être. Si le volume dépasse huit, euh, huit mille huit cents commandes par mois, euh, nous pouvons descendre à dix-sept, 17 %.
+[00:02:31.7 - 00:02:40.1] Speaker 2: 800 commandes, cela représente environ 25-- 27 commandes par jour. C'est possible, mais pas garanti au début.
+[00:02:41.6 - 00:02:48.8] Speaker 1: Nous pouvons commencer avec une pur-- une période d'essai d'un mois pour évaluer le volume réel.
+[00:02:50.4 - 00:02:53.0] Speaker 2: D'accord. Et concernant les zones de livraison ?
+[00:02:54.4 - 00:02:59.6] Speaker 1: Nous couvrons un rayon de sept kilomètres auto-autour de, du restaurant.
+[00:03:01.7 - 00:03:04.3] Speaker 2: Et si une cliente habite un peu plus loin ?
+[00:03:05.7 - 00:03:09.3] Speaker 1: Dans ce cas, un supplément de livraison peut être appliqué.
+[00:03:11.0 - 00:03:16.8] Speaker 2: Très bien. J'aimerais aussi savoir comment vous gérez les retards ou les réclamations clients.
+[00:03:18.0 - 00:03:29.4] Speaker 1: Nous avons un service client dédié. En cas de retard, euh, nous contactons immédiatement le, la cliente et trouvons une so-- une solution.
+[00:03:31.4 - 00:03:36.0] Speaker 2: C'est important pour moi que la réputation de mon restaurant reste intacte.
+[00:03:37.0 - 00:03:43.1] Speaker 1: Bien sûr, notre priorité est de protéger l'image de nos, de nos partenaires.
+[00:03:46.7 - 00:03:54.9] Speaker 2: Reve-revenons à la commission. Si le premier mois, nous, euh, nous n'atteignons pas 800 commandes, restons à 20 % ?
+[00:03:56.0 - 00:04:08.0] Speaker 1: Oui, le mois d'essai se, sera à 20 %, mais si nous voyons une progression claire, nous pouvons ajuster à 18 pour cent, euh, dès le deuxiè-- le deuxième mois.
+[00:04:10.1 - 00:04:17.7] Speaker 2: 18 % sera déjà plus acceptable. Est-ce que vous proposez aussi une formule fixe mensuelle au lieu d'un pourcentage ?
+[00:04:18.7 - 00:04:27.4] Speaker 1: Nous avons une formule hybride, euh, un abonnement fixe, euh, réduit, euh, une co-- une commission plus base, basse.
+[00:04:29.3 - 00:04:31.8] Speaker 2: Intéressant. Donnez-moi un exemple concret.
+[00:04:33.0 - 00:04:42.5] Speaker 1: Par exemple, quarante mille dinars fixes par mois, plus, euh, 12 % de commission.
+[00:04:44.2 - 00:04:51.6] Speaker 2: Hmm, cela peut être rentable si le volume est élevé, mais si les ventes baissent, je prends un risque.
+[00:04:53.6 - 00:04:59.1] Speaker 1: Exactement. C'est une option plus adaptée aux restaurants déjà stables.
+[00:05:01.3 - 00:05:04.9] Speaker 2: Pour le moment, je préfère commencer avec la commission simple.
+[00:05:06.3 - 00:05:17.3] Speaker 1: Très bien. Parlons maintenant des heures de pointe. Euh, entre 12 h et 14 h, nous avons souvent beaucoup de commandes, euh, si-simultanées.
+[00:05:19.2 - 00:05:26.9] Speaker 2: C'est aussi mon moment le plus chargé en cuisine. Comment assurez, euh, assurez-vous que les livraisons restent rapides ?
+[00:05:27.8 - 00:05:39.5] Speaker 1: Nous plaçons deux livre-- deux livreuses dédiées à votre zone pendant les, les pics. Euh, ainsi, les commandes ne s'ac-s'accumulent pas.
+[00:05:42.2 - 00:05:46.2] Speaker 2: Euh, et si j'ai soudainement 10 commandes en 15 minutes ?
+[00:05:47.3 - 00:05:50.2] Speaker 1: Nous priorisons par, par ordre, par ordre,
+[00:05:51.0 - 00:05:59.4] Speaker 1: euh, de préparation, mais il est important que votre équipe indique le temps estimé de préparation sur chaque commande.
+[00:06:01.2 - 00:06:05.6] Speaker 2: D'accord. En moyenne, euh, nos plats prennent 15 à 20 minutes.
+[00:06:06.7 - 00:06:12.1] Speaker 1: Parfait. Nous, euh, indiqu-- nous, nous indiquons, euh, au client,
+[00:06:13.0 - 00:06:17.4] Speaker 1: euh, un délai total de 35 à 45 minutes maximum.
+[00:06:19.8 - 00:06:22.8] Speaker 2: Euh, je veux éviter les retards supérieurs à une heure.
+[00:06:23.7 - 00:06:34.8] Speaker 1: Nous aussi. Euh, si le retard dépasse 15 minutes, euh, supplémentaires, euh, nous inform-, euh, nous informons immé-immédiatement la cliente.
+[00:06:36.7 - 00:06:40.4] Speaker 2: Et en cas de problème, par exemple une erreur dans la commande.
+[00:06:41.2 - 00:06:52.5] Speaker 1: Si l'erreur vient du restaurant, vous prenez, vous prenez en charge la correction. Si elle vient de la livraison, nous assumons, euh, la responsabilité.
+[00:06:54.2 - 00:06:58.4] Speaker 2: Logique. Et concernant le paiement, comment cela fonctionne-t-il ?
+[00:07:00.1 - 00:07:12.6] Speaker 1: Nous collectons les paiements en ligne ou, euh, ou espèces. Mais, euh, puis, euh, nous, nous vous restons votre part chaque semaine par virement, virement bancaire.
+[00:07:14.4 - 00:07:15.9] Speaker 2: Chaque semaine, pas chaque mois ?
+[00:07:17.8 - 00:07:18.0] Speaker 1: Non.
+[00:07:19.7 - 00:07:24.8] Speaker 1: Hebdomadaire. Euh, cela aide à votre tré-trésorerie.
+[00:07:27.0 - 00:07:32.7] Speaker 2: Euh, c'est un point positif. Y a-t-il des frais cachés, assurance, maintenance de l'application ?
+[00:07:33.6 - 00:07:36.6] Speaker 1: Non, tout est inclus dans la commission.
+[00:07:38.3 - 00:07:43.7] Speaker 2: Très bien. Euh, j'aimerais aussi savoir si vous proposez une promotion de lancement.
+[00:07:44.5 - 00:07:53.0] Speaker 1: Oui, nous pouvons offrir la livraison gratuite aux clientes pendant la première semaine pour attirer plus de commandes.
+[00:07:55.0 - 00:07:57.7] Speaker 2: Euh, qui prend en charge le coût de cette promotion ?
+[00:07:58.7 - 00:08:02.8] Speaker 1: Nous partageons le coût, euh, 50/50 pour le lancement.
+[00:08:04.4 - 00:08:08.1] Speaker 2: D'accord. Euh, cela peut booster la visibilité.
+[00:08:09.4 - 00:08:18.6] Speaker 1: Exactement. Plus de visibilité signifie plus de volume, donc, euh, possibilité de réduire, euh, la commission plus vite.
+[00:08:21.3 - 00:08:23.7] Speaker 2: Euh, je commence à voir l'intérêt stratégique.
+[00:08:24.6 - 00:08:29.1] Speaker 1: Notre, euh, objectif est un, euh, partenariat gagnant-gagnant.
+[00:08:33.6 - 00:08:45.0] Speaker 2: Bonjour Leïla, euh, la première journée de livraison s'est très bien passée globalement, mais entre douze heures et treize heures, nous avons un, euh, eu un pic de douze commandes simultanées.
+[00:08:46.3 - 00:08:56.2] Speaker 1: Oui, j'ai vu les notifications. Nous avons dû, euh, redé-, euh, redériger une livreuse supplémentaire pour assurer les délais.
+[00:08:58.0 - 00:09:04.8] Speaker 2: C'est vrai, mais certains clients, t-, euh, en camp ont quand même reçu leur commande avec dix minutes de retard.
+[00:09:05.9 - 00:09:12.2] Speaker 1: Je m'excuse pour cela. Pour demain, je vais assigner deux livreuses supplémentaires sur, euh, sur,
+[00:09:13.1 - 00:09:14.8] Speaker 1: sur, euh, ce créneau.
+[00:09:17.2 - 00:09:23.7] Speaker 2: Très bien. Euh, aussi, un client a signalé qu'il, euh, manquait un accompagnement dans son plat.
+[00:09:25.5 - 00:09:37.6] Speaker 1: Ah, dans ce cas, euh, nous avons contacté le client et proposé un remboursement partiel ou une compens-, euh, compensation sur la prochaine commande.
+[00:09:39.2 - 00:09:44.1] Speaker 2: Parfait. Euh, je veux que la satisfaction des clients soit garantie dès le début.
+[00:09:45.4 - 00:09:54.8] Speaker 1: Absolument. Chaque in-, euh, chaque incident est noté et ana-analysé pour éviter qu'il se reproduise.
+[00:09:56.8 - 00:10:07.5] Speaker 2: Concernant les volumes, certaines journées dépassent déjà mes prévisions. J'aimerais savoir si vous pouvez adapter rapidement la production de livreuses selon la demande réelle.
+[00:10:08.5 - 00:10:20.3] Speaker 1: Oui, nous avons, euh, un planning flexible. Euh, si vous me prévenez 30 minutes à l'avance, euh, nous pouvons ajouter une livreuse en, en fort.
+[00:10:22.6 - 00:10:30.2] Speaker 2: Euh, c'est rassurant. Et pour le suivi des commandes en temps réel, puis-je voir qui prend chaque livraison ?
+[00:10:31.3 - 00:10:39.0] Speaker 1: Bien sûr. L'application vous montre chaque commande, l'heure de départ et de, et le statut de la livraison.
+[00:10:40.7 - 00:10:44.5] Speaker 2: Parfait. Euh, je pense que cette transparence est essentielle.
+[00:10:45.1 - 00:10:50.1] Speaker 1: Exactement. Cela permet de réagir immédiatement à tout, à tout problème.
+[00:10:52.1 - 00:10:57.6] Speaker 2: Et pour les jours de pluie ou de trafic dense, avez-vous une solution pour éviter les retards ?
+[00:10:59.1 - 00:11:09.8] Speaker 1: Oui, nous avons toujours des livreuses supplémentaires, euh, en réserve et des itiné-, euh, itinéraires alter-alternatifs pour gagner du temps.
+[00:11:11.4 - 00:11:15.8] Speaker 2: Très bien. Je commence à me sentir confiante dans cette collaboration.
+[00:11:16.4 - 00:11:24.4] Speaker 1: Merci Nadia. Euh, nous allons continuer à ajuster, euh, et améliorer le service semaine par, euh, après semaine.
+[00:11:28.3 - 00:11:38.5] Speaker 2: Bonjour Leïla. Cette semaine, euh, nous avons eu un pic inattendu, euh, jeudi soir. Nous avons reçu dix-huit commandes entre dix-, dix-neuf heures et dix-neuf heures trente.
+[00:11:39.7 - 00:11:41.3] Speaker 1: Oui, euh, j'ai vu ça.
+[00:11:42.1 - 00:11:50.7] Speaker 1: Nos deux livreuses, euh, principales n'étaient pas suffisantes. J'ai, j'ai dû pas, euh, j'ai dû appeler une remplaçante en, en urgence.
+[00:11:53.0 - 00:11:58.1] Speaker 2: C'est vrai, mais certaines commandes ont été livrées avec quinze à vingt minutes de retard.
+[00:11:59.3 - 00:12:10.1] Speaker 1: Je m'excuse pour, pour ce retard. Pour prévenir ce genre de situation, je propose, euh, d'augmenter le nombre de livreuses sur les créneaux critiques.
+[00:12:12.0 - 00:12:20.8] Speaker 2: Oui, et aussi, euh, je pense que nous devrions prévoir un stock tampon, euh, de plats prêts pour ces heures de forte affluence.
+[00:12:21.7 - 00:12:28.3] Speaker 1: Bonne idée. Ainsi, euh, les livreuses pourront partir dès que le c-- le commande est validée.
+[00:12:30.6 - 00:12:35.2] Speaker 2: Un autre point : un client a signalé, euh, qu'un plat était arrivé froid.
+[00:12:36.9 - 00:12:56.8] Speaker 1: Dans ce cas, nous avons proposé de renvoyer un plat gratuit ou de, euh, compen-, euh, compenser sur la prochaine commande. Nous, nous analysons, euh, également, euh, euh, itinéra-itinéraire et le temps moyen de trajet pour éviter que cela se reproduise.
+[00:12:58.3 - 00:13:07.4] Speaker 2: Très bien. Pour les jours où, euh, nous avons des commandes simultanées, pouvez-vous me garantir que les livraisons prioritaires arrivent en premier ?
+[00:13:08.5 - 00:13:13.9] Speaker 1: Oui, nous classons, euh, les commandes selon le temps de préparation et la distance.
+[00:13:15.3 - 00:13:22.1] Speaker 1: Euh, les commandes urgentes, euh, ou, ou pour, euh, des événements spéciaux sont prio-prioritaires.
+[00:13:23.9 - 00:13:28.2] Speaker 2: Parfait. Et concernant les paiements, euh, tout fonctionne bien ?
+[00:13:29.8 - 00:13:37.8] Speaker 1: Oui, euh, nous collectons les paiements en ligne et, euh, et par carte et, euh, je vous fais le virement, euh, hebdo--
+[00:13:38.8 - 00:13:42.1] Speaker 1: hebdo-hebdomadaire chaque vendredi.
+[00:13:44.5 - 00:13:54.1] Speaker 2: Très bien. Une question sur les zones un peu plus éloignées. Euh, certains clients veulent être livrés à 10 kilomètres au lieu de 7 kilomètres.
+[00:13:55.0 - 00:14:05.6] Speaker 1: Nous pouvons le faire avec un petit supplément de livraison, mais, euh, si ces commandes deviennent régulières, euh, il faudra ajuster le contrat.
+[00:14:07.6 - 00:14:18.0] Speaker 2: Compris. Enfin, euh, je voudrais que chaque semaine, nous faisons un point rapide sur les retours clients pour voir ce qui fonctionne et ce que doit être amélioré.
+[00:14:19.0 - 00:14:31.9] Speaker 1: Excellente idée. Euh, nous f-- nous ferons un rapport, euh, hebdomadaire détaillé avec volume, retard, euh, incidents et suggestions, euh, d'amélioration.
+[00:14:33.6 - 00:14:39.8] Speaker 2: Très bien. Cela me rassure de savoir que nous pouvons réagir rapidement aux imprévus.
+[00:14:40.8 - 00:14:46.3] Speaker 1: Exactement. La flexibilité est essentielle pour un service de livraison de qualité.
+[00:14:50.5 - 00:14:58.7] Speaker 2: Bonjour Leïla. Cette semaine, nous avons reçu une commande spéciale pour un événement d'entreprise : 25 plats combinés pour, euh, 20 heures.
+[00:14:59.8 - 00:15:11.2] Speaker 1: Très bien. Cela tombe pendant notre créneau de for-, euh, de forte, euh, affluence. Euh, nous pouvons assigner trois livreuses pour, pour cette soirée.
+[00:15:13.5 - 00:15:23.0] Speaker 2: Parfait. Aussi, certains clients ont demandé un nouveau plat végétarien que nous venons d'introduire. Pouvez-vous gérer ce type de commande spéciale ?
+[00:15:24.8 - 00:15:39.0] Speaker 1: Oui, chaque plat est, est étiqueté et nous suivons les instructions spéciales. Nous pouvons assurer que les plats végétariens arrivent séparés et à bon t-, euh, bonne température.
+[00:15:40.6 - 00:15:49.0] Speaker 2: Très bien. Mais hier, euh, nous avons eu un problème. Une commande pour le quartier le plus éloigné est arrivée avec 20 minutes de retard.
+[00:15:50.7 - 00:16:06.7] Speaker 1: Oui, je m'en souviens. Euh, le trafic était, euh, dense, euh, pour ces zones. Euh, nous allons assigner systé-systématiquement une livreuse proche du point de départ pour, euh, minimiser les reta-, les retards.
+[00:16:08.5 - 00:16:16.6] Speaker 2: Parfait. Euh, je voudrais aussi que chaque livreuse ait un itinéraire optimisé pour chaque créneau horaire.
+[00:16:18.6 - 00:16:30.7] Speaker 1: C'est déjà intégré dans notre application, mais je peux vous mon-montrer le système pour que, euh, vous ayez une vue globale et temps réel.
+[00:16:32.8 - 00:16:39.6] Speaker 2: Très bien. Et pour les commandes urgentes, celles qui doivent partir dans les 10 minutes, pouvez-vous garantir le délai ?
+[00:16:40.5 - 00:16:48.5] Speaker 1: Oui, nous avons une priorité express qui alerte la livreuse dès que le plat est prêt.
+[00:16:50.2 - 00:17:00.5] Speaker 2: Excellent. Concernant la commission, je commence à envisager d'augmenter le volume de commandes. Euh, si nous atteignons, euh,
+[00:17:01.4 - 00:17:04.6] Speaker 2: 900 commandes par mois, quelle serait votre proposition ?
+[00:17:05.7 - 00:17:20.3] Speaker 1: Si nous dépassons neuf, euh, neuf cent commandes, nous pouvons réduire la commission à, euh, 16 %. Et si le volume dépasse mille, nous pouvons enve-, euh, envisager, euh, 15 %.
+[00:17:22.5 - 00:17:27.1] Speaker 2: Parfait. Cela m'encourage à promouvoir la livraison auprès de mes clients.
+[00:17:28.7 - 00:17:37.1] Speaker 1: Exactement. Plus de commandes, euh, plus de visibilité pour le restaurant et plus de revenus pour vous.
+[00:17:38.7 - 00:17:47.8] Speaker 2: Très bien. Euh, pour le week-end prochain, j'aurai un événement avec 40 commandes, euh, en simultané. Pouvez-vous assurer ce volume ?
+[00:17:48.7 - 00:17:55.5] Speaker 1: Oui, nous allons assigner quatre livreuses et prévoir, euh, un suivi constant pour éviter tout retard.
+[00:17:57.4 - 00:18:01.4] Speaker 2: Parfait. Euh, je pense que nous commençons à trouver un rythme stable.
+[00:18:02.7 - 00:18:09.7] Speaker 1: Oui, Nadia, euh, nous allons continuer à ajuster selon, euh, vos besoins et ceux, euh, des clients.
+[00:18:13.9 - 00:18:20.8] Speaker 2: Bonjour Leïla. Aujourd'hui, nous avons eu un incident. Une commande pour un client régulier est arrivée froide.
+[00:18:21.8 - 00:18:29.7] Speaker 1: Oui, je l'ai vu dans l'application. La livreuse a été retardée à cause d'un embouteillage imprévu.
+[00:18:31.9 - 00:18:39.4] Speaker 2: Je comprends, mais c'est une cliente fidèle. Il faut absolument que ce so-- euh, que ça ne se repor-- euh, reproduise pas.
+[00:18:40.7 - 00:18:50.0] Speaker 1: Bien sûr, je vais ajuster les itinéraires et assigner une livreuse plus proche du quartier pour ces commandes prioritaires.
+[00:18:52.3 - 00:18:54.0] Speaker 2: Parfait. Aussi--
+[00:18:56.1 - 00:19:03.6] Speaker 2: Parfait. Aussi, certains clients ont demandé des plats sans gluten cette semaine. Euh, pouvez-vous gérer ces commandes spéciales ?
+[00:19:06.7 - 00:19:16.7] Speaker 1: Oui, chaque plat est étiqueté dans l'application et les livreuses sauront les préparer pour éviter toute erreur.
+[00:19:18.8 - 00:19:27.8] Speaker 2: Très bien. Pour les heures de pointe, nous avons eu, euh, vingt commandes en trente minutes hier soir. Euh, comment avez-vous géré cela ?
+[00:19:29.0 - 00:19:38.9] Speaker 1: J'ai assigné une livreuse supplémentaire et priorisé les commandes selon l'ordre de préparation. Malgré cela, deux commandes ont
+[00:19:39.7 - 00:19:41.7] Speaker 1: un léger retard de cinq minutes.
+[00:19:43.8 - 00:19:51.1] Speaker 2: Ce n'est pas grave, mais il faut minimiser tout retard. Euh, peut-on mettre en place un système d'alerte pour les pics ?
+[00:19:57.8 - 00:20:06.9] Speaker 1: Oui, l'application peut envoyer une alerte dès que le nombre de commandes atteint quinze sur un créneau de trente minutes.
+[00:20:09.0 - 00:20:14.0] Speaker 2: Parfait. Et pour les clients qui habitent au-delà des sept kilomètres habituels ?
+[00:20:15.1 - 00:20:23.0] Speaker 1: Nous pouvons livrer, mais un petit supplément est appliqué. Je vous tiendrai informé chaque fois que cela se produit.
+[00:20:24.6 - 00:20:26.8] Speaker 2: Très bien. Et la commission cette semaine ?
+[00:20:28.1 - 00:20:32.7] Speaker 1: Comme prévu pour le mois d'essai : vingt pour cent, mais si le volume continue
+[00:20:34.3 - 00:20:37.9] Speaker 1: à augmenter, nous pouvons revoir à la baisse
+[00:20:38.8 - 00:20:40.1] Speaker 1: pour le mois prochain.
+[00:20:41.7 - 00:20:52.0] Speaker 2: Parfait. Je suis contente que nous ayons trouvé un rythme. Euh, il reste juste à suivre la satisfaction des clients et ajuster les itinéraires selon les retours.
+[00:20:52.9 - 00:21:00.4] Speaker 1: Exactement. Chaque semaine, nous ferons un point détaillé pour améliorer la qualité de service.
+[00:21:02.1 - 00:21:10.2] Speaker 2: Parfait. Merci Leïla. Je me sens déjà plus, euh, s-sereine à l'idée, euh, de gérer la livraison avec votre équipe.
+[00:21:11.2 - 00:21:15.8] Speaker 1: Merci Nadia. Nous allons continuer à affiner le processus
+[00:21:16.7 - 00:21:20.4] Speaker 1: pour que tout se passe parfaitement.
+[00:21:24.7 - 00:21:33.4] Speaker 2: Leïla, aujourd'hui, nous avons reçu une grosse commande : cinquante plats à livrer en moins de deux heures. Euh, c'est plus que ce que nous avons prévu.
+[00:21:34.6 - 00:21:40.7] Speaker 1: Je vois. Pas de panique, nous pouvons mobiliser quatre livreuses et ajuster les
+[00:21:41.6 - 00:21:42.3] Speaker 1: itinéraires.
+[00:21:44.2 - 00:21:49.9] Speaker 2: Très bien, mais certaines commandes sont pour des zones éloignées, au-delà de sept kilomètres.
+[00:21:50.6 - 00:21:50.9] Speaker 1: Oui,
+[00:21:51.8 - 00:21:56.2] Speaker 1: nous appliquerons un supplément pour ces clients
+[00:21:57.0 - 00:22:01.2] Speaker 1: et priorisons les plus proches pour respecter les délais.
+[00:22:03.8 - 00:22:13.5] Speaker 2: Parfait. Aussi, quelques clients, euh, ont demandé des options végétariennes et sans gluten. Pouvez-vous gérer ces spécifications sous ce volume ?
+[00:22:14.6 - 00:22:22.5] Speaker 1: Oui, chaque plat sera étiqueté et séparé dans les sacs de livraison pour éviter toute confusion.
+[00:22:24.1 - 00:22:28.9] Speaker 2: Très bien. Et si une livreuse est retardée à cause du trafic ?
+[00:22:29.7 - 00:22:32.4] Speaker 1: Nous avons un système de remplacement immédiat.
+[00:22:34.0 - 00:22:39.5] Speaker 1: Si une livreuse est bloquée, une autre prend ses commandes en priorité.
+[00:22:41.3 - 00:22:51.7] Speaker 2: Parfait. Aussi, je voudrais que toutes les commandes soient suivies en temps réel. Euh, je veux savoir quand chaque plat quitte le restaurant et quand il arrive.
+[00:22:52.9 - 00:22:55.2] Speaker 1: L'application le permet déjà.
+[00:22:57.1 - 00:22:57.8] Speaker 1: Vous verrez
+[00:22:58.9 - 00:23:05.5] Speaker 1: l'état de chaque commande, l'itinéraire et l'heure estimée d'arrivée.
+[00:23:07.3 - 00:23:11.2] Speaker 2: Excellent. Et concernant le paiement pour cette grosse commande ?
+[00:23:13.3 - 00:23:20.2] Speaker 1: Comme d'habitude, la commission est prélevée automatiquement et le reste vous sera
+[00:23:21.0 - 00:23:24.3] Speaker 1: versé vendredi par virement.
+[00:23:26.3 - 00:23:34.2] Speaker 2: Très bien, euh, mais j'aimerais que nous fassions un point a, euh, après cette journée pour analyser les problèmes éventuels.
+[00:23:35.1 - 00:23:46.6] Speaker 1: Absolument. Chaque incident sera noté et nous ajusterons le planning et les itinéraires si nécessaire.
+[00:23:48.4 - 00:23:59.7] Speaker 2: Parfait. Je commence à apprécier cette flexibilité. Euh, c'est rassurant de savoir que nous pouvons gérer des volumes plus élevés sans compromettre la qualité.
+[00:24:00.4 - 00:24:10.2] Speaker 1: Exactement. Notre objectif est que vos clients reçoivent toujours leurs plats à temps et en parfait état.
+[00:24:11.9 - 00:24:20.2] Speaker 2: Très bien. Continuo-- con-continuons, euh, comme cela, euh, et faisons un retour complet à la fin de la semaine
+[00:24:21.1 - 00:24:24.4] Speaker 1: Parfait, Nadia. Nous allons nous assurer
+[00:24:25.3 - 00:24:29.4] Speaker 1: que tout se passe au mieux, même sous pression
+[00:24:33.2 - 00:24:39.5] Speaker 2: Bonjour Leïla. Cette semaine, j'aimerais que nous fassions un point complet sur les livraisons et les retours clients.
+[00:24:40.4 - 00:24:46.7] Speaker 1: Bien sûr, j'ai préparé un rapport avec le nombre de commandes, le retard et les incidents.
+[00:24:48.7 - 00:24:53.5] Speaker 2: Parfait. Euh, quels, quels ont été les points critiques, euh, cette semaine?
+[00:24:55.0 - 00:25:10.3] Speaker 1: Il y a eu deux, euh, pics ou de volume a doublé par rapport à, à vos prévi-, prévisions. Mardi soir et jeudi midi, euh, nous avons eu, eu quelques retards de cinq à dix, à dix minutes.
+[00:25:11.8 - 00:25:16.3] Speaker 2: Très bien. Comment prope-proposez-vous d'éviter cela à l'avenir?
+[00:25:18.2 - 00:25:32.6] Speaker 1: Nous pouvons assigner systématiquement une livreuse supplémentaire pour ces créneaux et je recommande que nous, nous anticipons chaque pic, euh, en analysant les commandes des semaines précédentes.
+[00:25:34.2 - 00:25:44.6] Speaker 2: Parfait. Aussi, certains clients ont demandé des plats supplémentaires pour, euh, des régimes spéciaux. Pouvez-vous gérer ces commandes spécifiques en parallèle?
+[00:25:45.4 - 00:25:58.4] Speaker 1: Oui, euh, nous avons un système de marquage des plats : végétarien, sans gluten ou allergènes, euh, spécifiques. Euh, chaque livreuse peut vérifier rapidement avant le départ.
+[00:26:00.4 - 00:26:05.4] Speaker 2: Excellent. Euh, concernant la commission, nous sommes toujours à 20 %, correct ?
+[00:26:06.0 - 00:26:14.9] Speaker 1: Oui, pour le mois d'ici, mais si le volume continue d'augmenter, nous pourrons passer à dix-huit pour cent dès le mois proch-prochain.
+[00:26:16.4 - 00:26:21.8] Speaker 2: Très bien. Et pour les nouvelles zones que certains clients demandent au-delà de sept kilomètres ?
+[00:26:22.8 - 00:26:35.2] Speaker 1: Nous livrons toujours, mais un supplément est appliqué. Euh, nous notons toutes ces commandes pour analyser leur fréquence et ajuster le contri-, le contrat si nécessaire.
+[00:26:36.8 - 00:26:47.8] Speaker 2: Parfait. Je voudrais aussi que nous améliorons, euh, le service de livraison en temps réel. Peut-on afficher sur l'écran du restaurant, euh, l'itinéraire de chaque, euh, livreuse ?
+[00:26:48.7 - 00:26:55.7] Speaker 1: Oui, nous pouvons activer cette option. Ainsi, votre équipe peut suivre l'avancement et anti-, euh, anticiper
+[00:26:56.9 - 00:26:57.6] Speaker 1: tout retard.
+[00:26:59.3 - 00:27:07.8] Speaker 2: Très bien. Et concernant les jours de forte affluence, par exemple vendredi soir, comment gérons-nous, euh, 40 commandes simultanées ?
+[00:27:09.1 - 00:27:21.2] Speaker 1: Nous assignons quatre à cinq livreuses et nous organisons les départs selon la priorité et la distance. Chaque commande est suivie en temps réel pour garantir la ponctualité.
+[00:27:22.7 - 00:27:33.3] Speaker 2: Excellent. Je suis contente de voir que tout est bien organisé. Je pense que nous avons, euh, nous pouvons envisager un contrat plus long après ce mois d'essai.
+[00:27:34.9 - 00:27:47.8] Speaker 1: Absolument. Euh, si tout continue ainsi, euh, nous pour-, nous pourrons signer un contrat de trois, euh, de trois mois avec commission ajustée selon le volume.
+[00:27:49.4 - 00:27:54.7] Speaker 2: Parfait. Merci Leïla. Je me sens rassurée sur la qualité et la fiabilité du service.
+[00:27:55.1 - 00:28:04.4] Speaker 1: Merci à vous, Nadia. Euh, nous allons continuer à améliorer chaque, chaque détail pour garantir la satisfa-, la satisfaction de vos clients.
+[00:28:13.7 - 00:28:16.0] Speaker 2: Leïla, aujourd'hui a été compliqué.
+[00:28:17.0 - 00:28:23.4] Speaker 2: Euh, trois commandes sont arrivées avec des erreurs, euh, plats manquants et mauvais accompagnement.
+[00:28:24.1 - 00:28:35.5] Speaker 1: Oui, j'ai vu cela dans le rapport. Le problème vient de la synchronisa-, euh, synchronisation entre votre cuisine et les livreuses.
+[00:28:37.1 - 00:28:42.7] Speaker 2: Je comprends, mais nous devons trouver une solution immédiate. Ces clients sont réguliers et fidèles.
+[00:28:43.8 - 00:28:54.4] Speaker 1: Bien sûr, nous avons contacté chaque client pour présenter nos, nos excuses et proposer un remboursement partiel ou un plat gratuit pour la prochaine commande.
+[00:28:56.3 - 00:29:05.3] Speaker 2: Parfait, mais il faut que cela, euh, ne se reproduise pas. Pouvez-vous ajuster le système pour mieux contrôler chaque commande avant départ ?
+[00:29:07.0 - 00:29:17.9] Speaker 1: Oui, nous allons instau-, euh, instaurer une double vérification. Une personne dans la cuisine confirme la commande et la livreuse vérifie avant de partir.
+[00:29:19.7 - 00:29:29.4] Speaker 2: Très bien. Aussi, nous avons eu des pics imprévus, 30 commandes simultanées pour le déjeuner. Comment pou-, euh, pouvez-vous gérer ce volume élevé ?
+[00:29:30.7 - 00:29:41.2] Speaker 1: Nous allons assigner automatiquement le nombre de, de livreuses nécessaires selon le vo-volume et la distance. Et pour les commandes prioritaires, elles partiront en premier.
+[00:29:43.1 - 00:29:46.7] Speaker 2: Parfait. Et pour les clients éloignés au-delà de sept kilomètres ?
+[00:29:48.2 - 00:29:56.2] Speaker 1: Nous continuons à livrer avec supplément, mais nous allons optimiser les, euh, itinéraires pour réduire les dé-, les délais.
+[00:29:57.7 - 00:30:05.1] Speaker 2: Très bien. Pour les commandes spéciales, euh, sans gluten, végétarien ou allergène, euh, tout est correctement suivi ?
+[00:30:06.5 - 00:30:15.3] Speaker 1: Oui, euh, chaque sac est étiqueté et vérifié avant le départ. Nous allons renforcer le contrôle en période de forte, euh, affluence.
+[00:30:17.3 - 00:30:22.2] Speaker 2: Excellent. Et concernant le paiement, euh, tout fonctionne comme d'habitude ?
+[00:30:23.0 - 00:30:29.9] Speaker 1: Oui, la commission est prélev-, est prélevée automatiquement et le reste vous sera versé vendredi.
+[00:30:31.9 - 00:30:41.6] Speaker 2: Très bien. Je veux que-- euh, je vais-- je veux que, euh, nous fassions un point quotidien cette semaine pour suivre chaque incident et corriger rapidement les erreurs.
+[00:30:42.7 - 00:30:52.2] Speaker 1: Absolument. Euh, chaque jour, nous ferons un b-, un bilan et ajusterons les équipes et les itiné-, les itinéraires si nécessaire.
+[00:30:53.9 - 00:31:03.9] Speaker 2: Parfait. Malgré ces problèmes, je vois que nous, nous-- que nous pouvons réagir rapidement. Je me sens, sens confiante que nous allons améliorer le service.
+[00:31:04.6 - 00:31:15.2] Speaker 1: Exactement. Chaque erreur est une occasion de renforcer le processus, euh, et de garantir la satisfa-, euh, la satisfaction des clients.
+[00:31:18.2 - 00:31:21.3] Speaker 2: Merci Leïla, je suis contente de notre collaboration
+[00:31:22.4 - 00:31:26.5] Speaker 1: Moi aussi, Nadia. Euh, à très bientôt pour la prochaine livraison.

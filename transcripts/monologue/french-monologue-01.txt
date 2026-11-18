@@ -1,0 +1,428 @@
+French Monologue 01
+Language: French
+Duration: 00:21:01.3
+Speakers: 1
+Machine transcription (automatic speech recognition), not human-reviewed. Segment-level timestamps, word timings in the .json.
+
+[00:00:03.1 - 00:00:08.6] Speaker 1: L'intelligence artificielle, ou l'IA, s'applique à tous les secteurs d'activité:
+[00:00:09.5 - 00:00:10.6] Speaker 1: transport, santé,
+[00:00:11.6 - 00:00:12.1] Speaker 1: énergie,
+[00:00:12.9 - 00:00:13.2] Speaker 1: industrie,
+[00:00:15.5 - 00:00:16.1] Speaker 1: logistique,
+[00:00:16.6 - 00:00:18.4] Speaker 1: finance, ou encore commerce,
+[00:00:19.2 - 00:00:19.4] Speaker 1: cloud,
+[00:00:20.0 - 00:00:20.5] Speaker 1: véhicules.
+[00:00:22.1 - 00:00:26.1] Speaker 1: Autonomes, compteurs intelligents utilisent tous des algorithmes
+[00:00:26.9 - 00:00:32.2] Speaker 1: performants pour fournir des réponses efficaces, fiables et personnalisées aux utilisateurs,
+[00:00:33.2 - 00:00:33.2] Speaker 1: associ
+[00:00:34.5 - 00:00:36.4] Speaker 1: ant matériel et logiciel.
+[00:00:37.9 - 00:00:40.7] Speaker 1: L'intelligence artificielle mobilise des connaissances
+[00:00:41.5 - 00:00:43.4] Speaker 1: multidisciplinaires: électronique
+[00:00:44.2 - 00:00:46.8] Speaker 1: (collecte de données, réseau de neurones),
+[00:00:47.7 - 00:00:50.5] Speaker 1: informatique (comme traitement de données,
+[00:00:51.4 - 00:00:53.6] Speaker 1: apprentissage profond), mathématiques
+[00:00:54.7 - 00:00:55.0] Speaker 1: (comme
+[00:00:55.7 - 00:00:56.9] Speaker 1: modèles d'analyse
+[00:00:57.6 - 00:00:58.1] Speaker 1: des données),
+[00:00:58.9 - 00:01:03.3] Speaker 1: ou sciences humaines et sociales pour analyser l'impact sociétal
+[00:01:04.0 - 00:01:05.2] Speaker 1: induit par ces nouveaux
+[00:01:05.9 - 00:01:07.9] Speaker 1: usages, l'essentiel sur les enjeux
+[00:01:08.5 - 00:01:08.8] Speaker 1: industriels
+[00:01:09.5 - 00:01:12.4] Speaker 1: et sociétaux majeurs de l'intelligence artificielle.
+[00:01:14.4 - 00:01:16.3] Speaker 1: Qu'est-ce que l'intelligence artificielle?
+[00:01:17.0 - 00:01:19.6] Speaker 1: L'intelligence artificielle, ou encore l'IA,
+[00:01:20.2 - 00:01:25.0] Speaker 1: est un ensemble d'algorithmes conférant à une machine des capacités d'analyse
+[00:01:25.5 - 00:01:26.1] Speaker 1: et de décision
+[00:01:28.4 - 00:01:30.1] Speaker 1: lui permettant de s'adapter
+[00:01:31.9 - 00:01:34.3] Speaker 1: intelligemment aux situations en faisant
+[00:01:35.0 - 00:01:35.8] Speaker 1: des prédictions
+[00:01:36.4 - 00:01:38.6] Speaker 1: à partir de données déjà acquises.
+[00:01:39.2 - 00:01:42.6] Speaker 1: L'intelligence artificielle associe les logiciels
+[00:01:43.4 - 00:01:45.0] Speaker 1: à des composants physiques
+[00:01:45.8 - 00:01:50.2] Speaker 1: qui peuvent être des compteurs, des interfaces pour l'utilisateur.
+[00:01:51.1 - 00:01:53.7] Speaker 1: À quoi sert l'intelligence artificielle?
+[00:01:54.4 - 00:01:56.3] Speaker 1: L'intelligence artificielle permet
+[00:01:58.2 - 00:01:59.3] Speaker 1: d'analyser des textes,
+[00:02:01.6 - 00:02:02.4] Speaker 1: qu'ils soient
+[00:02:03.5 - 00:02:06.8] Speaker 1: oraux ou écrits. L'intelligence artificielle
+[00:02:07.6 - 00:02:13.9] Speaker 1: arrive de mieux en mieux à comprendre et utiliser le langage pour répondre automatiquement
+[00:02:14.8 - 00:02:15.7] Speaker 1: à des requêtes,
+[00:02:18.4 - 00:02:20.5] Speaker 1: à des requêtes variées. Aujourd'hui,
+[00:02:21.1 - 00:02:25.0] Speaker 1: elle est utilisée, par exemple, pour gérer les relations clients
+[00:02:25.6 - 00:02:25.7] Speaker 1: sur
+[00:02:26.2 - 00:02:27.8] Speaker 1: Internet ou par téléphone.
+[00:02:28.5 - 00:02:30.5] Speaker 1: Les agents conversationnels,
+[00:02:31.6 - 00:02:33.5] Speaker 1: ou chatbots en anglais,
+[00:02:34.5 - 00:02:35.2] Speaker 1: sont des systèmes
+[00:02:35.9 - 00:02:36.4] Speaker 1: intelligents
+[00:02:38.9 - 00:02:42.1] Speaker 1: qui arrivent à entretenir une conversation
+[00:02:42.8 - 00:02:44.0] Speaker 1: en langage naturel.
+[00:02:44.6 - 00:02:49.6] Speaker 1: Ils se basent sur différentes briques technologiques: reconnaissance de texte,
+[00:02:50.3 - 00:02:52.6] Speaker 1: de la parole, d'expression du visage,
+[00:02:53.8 - 00:02:54.5] Speaker 1: de modéliser
+[00:02:55.2 - 00:02:58.3] Speaker 1: des connaissances pour aider à la prise de décision.
+[00:02:59.0 - 00:03:01.0] Speaker 1: L'intelligence artificielle permet de
+[00:03:01.6 - 00:03:03.7] Speaker 1: coder un ensemble de connaissances,
+[00:03:04.3 - 00:03:05.2] Speaker 1: de reproduire
+[00:03:05.9 - 00:03:06.6] Speaker 1: un raisonnement
+[00:03:07.2 - 00:03:07.3] Speaker 1: type
+[00:03:07.9 - 00:03:08.5] Speaker 1: et d'utiliser
+[00:03:09.8 - 00:03:10.6] Speaker 1: ces informations
+[00:03:12.6 - 00:03:15.2] Speaker 1: pour prendre des décisions. Par exemple,
+[00:03:17.9 - 00:03:25.4] Speaker 1: il est aujourd'hui possible, à partir de données multiples et complexes, d'aider les médecins à proposer des traitements
+[00:03:26.2 - 00:03:26.8] Speaker 1: personnalisés
+[00:03:27.4 - 00:03:29.3] Speaker 1: du cancer de la prostate,
+[00:03:31.1 - 00:03:34.4] Speaker 1: de produire des connaissances grâce au machine learning
+[00:03:36.4 - 00:03:36.7] Speaker 1: ou ap
+[00:03:37.4 - 00:03:38.8] Speaker 1: prentissage automatique.
+[00:03:39.8 - 00:03:43.4] Speaker 1: Grâce à l'intelligence artificielle, la machine devient capable de
+[00:03:44.3 - 00:03:44.6] Speaker 1: repérer
+[00:03:45.5 - 00:03:46.3] Speaker 1: des tendances
+[00:03:46.9 - 00:03:48.0] Speaker 1: ou des corrélations
+[00:03:48.8 - 00:03:50.7] Speaker 1: dans un très grand volume de données,
+[00:03:52.0 - 00:03:53.5] Speaker 1: en adaptant ses analyses
+[00:03:54.1 - 00:03:56.8] Speaker 1: et ses comportements, et ainsi de créer
+[00:03:57.4 - 00:03:58.6] Speaker 1: ses propres connaissances
+[00:03:59.2 - 00:04:01.4] Speaker 1: en fonction de l'expérience accumul
+[00:04:02.9 - 00:04:03.1] Speaker 1: ée.
+[00:04:04.1 - 00:04:06.8] Speaker 1: Cela permet de proposer des prédictions
+[00:04:07.4 - 00:04:10.1] Speaker 1: très fines sur la consommation d'énergie,
+[00:04:10.9 - 00:04:11.3] Speaker 1: l'évolution
+[00:04:12.8 - 00:04:13.6] Speaker 1: du comportement
+[00:04:14.2 - 00:04:14.8] Speaker 1: d'une machine
+[00:04:15.4 - 00:04:16.5] Speaker 1: ou d'un bâtiment.
+[00:04:17.0 - 00:04:19.6] Speaker 1: Les règles prédictives qui en sont
+[00:04:20.4 - 00:04:20.8] Speaker 1: tirées
+[00:04:21.5 - 00:04:25.3] Speaker 1: ne sont que le résultat de ce qui a déjà eu lieu.
+[00:04:26.8 - 00:04:27.2] Speaker 1: Ce ne sont pas
+[00:04:27.8 - 00:04:27.9] Speaker 1: des
+[00:04:29.0 - 00:04:29.3] Speaker 1: lois
+[00:04:30.7 - 00:04:31.1] Speaker 1: générales.
+[00:04:34.3 - 00:04:34.8] Speaker 1: D'analyser
+[00:04:36.6 - 00:04:37.3] Speaker 1: des images
+[00:04:37.9 - 00:04:37.9] Speaker 1: ou
+[00:04:38.9 - 00:04:39.5] Speaker 1: des scènes
+[00:04:40.2 - 00:04:40.8] Speaker 1: en temps réel.
+[00:04:43.3 - 00:04:48.2] Speaker 1: Reconnaître des défauts de fabrication ou détecter des visages. Par exemple,
+[00:04:49.6 - 00:04:50.3] Speaker 1: certaines usines
+[00:04:52.1 - 00:04:56.4] Speaker 1: ont des robots qui détectent en temps réel les problèmes techniques,
+[00:04:58.4 - 00:04:59.6] Speaker 1: défautent, et corrigent
+[00:05:00.3 - 00:05:01.1] Speaker 1: ou arrêtent la production
+[00:05:02.1 - 00:05:07.0] Speaker 1: pour parvenir à analyser une très grande quantité de données visuelles
+[00:05:08.3 - 00:05:09.2] Speaker 1: en simultané.
+[00:05:10.3 - 00:05:12.3] Speaker 1: Les chercheurs développent des log
+[00:05:13.6 - 00:05:13.8] Speaker 1: iciels
+[00:05:14.3 - 00:05:16.6] Speaker 1: à base de réseau de neurones profonds
+[00:05:17.5 - 00:05:21.1] Speaker 1: qui permettent aux ordinateurs d'acquérir des capacités d'ap
+[00:05:21.9 - 00:05:22.5] Speaker 1: prentissage
+[00:05:23.5 - 00:05:24.4] Speaker 1: (deep learning).
+[00:05:27.3 - 00:05:27.7] Speaker 1: Ensuite,
+[00:05:29.0 - 00:05:29.3] Speaker 1: on a
+[00:05:30.2 - 00:05:35.0] Speaker 1: réalisé des actions. L'intelligence artificielle permet de réaliser des actions.
+[00:05:36.0 - 00:05:39.2] Speaker 1: Par exemple, l'intelligence artificielle permet d'imiter
+[00:05:40.5 - 00:05:42.4] Speaker 1: et reproduire à la perfection
+[00:05:43.3 - 00:05:44.6] Speaker 1: certains gestes humains,
+[00:05:45.3 - 00:05:45.8] Speaker 1: comme celui
+[00:05:46.8 - 00:05:47.5] Speaker 1: d'administrer
+[00:05:48.2 - 00:05:49.9] Speaker 1: un vaccin via une main
+[00:05:50.5 - 00:05:51.2] Speaker 1: robotisée.
+[00:05:57.0 - 00:06:02.9] Speaker 1: Comment fonctionne le deep learning? Les chercheurs montrent un très grand nombre d'images
+[00:06:04.0 - 00:06:07.2] Speaker 1: ou de données numériques à une machine qui fonctionne
+[00:06:07.9 - 00:06:10.3] Speaker 1: à base de réseau de neurones profonds,
+[00:06:10.8 - 00:06:13.7] Speaker 1: c'est-à-dire avec un très grand nombre de couches,
+[00:06:14.7 - 00:06:15.4] Speaker 1: en lui fixant
+[00:06:16.0 - 00:06:16.7] Speaker 1: un objectif
+[00:06:17.3 - 00:06:17.3] Speaker 1: comme
+[00:06:18.0 - 00:06:19.3] Speaker 1: reconnaître un visage,
+[00:06:20.1 - 00:06:22.7] Speaker 1: ou comprendre des panneaux de signalisation,
+[00:06:23.6 - 00:06:25.4] Speaker 1: ou reconnaître un bruit sonore,
+[00:06:26.6 - 00:06:29.6] Speaker 1: en indiquant à la machine quelles sont les données
+[00:06:30.6 - 00:06:30.7] Speaker 1: pert
+[00:06:31.6 - 00:06:31.9] Speaker 1: inentes
+[00:06:32.5 - 00:06:32.5] Speaker 1: pour
+[00:06:33.2 - 00:06:33.8] Speaker 1: la requête.
+[00:06:35.5 - 00:06:39.5] Speaker 1: Les chercheurs lui apprennent petit à petit à reconnaître ces inform
+[00:06:40.0 - 00:06:40.2] Speaker 1: ations.
+[00:06:41.2 - 00:06:43.4] Speaker 1: L'intelligence artificielle se base sur
+[00:06:44.5 - 00:06:44.5] Speaker 1: des
+[00:06:45.4 - 00:06:45.5] Speaker 1: sim
+[00:06:48.3 - 00:06:48.7] Speaker 1: ilitudes
+[00:06:50.0 - 00:06:53.8] Speaker 1: pour reconnaître l'objet recherché, mais également pour le
+[00:06:54.5 - 00:06:56.2] Speaker 1: différencier des autres.
+[00:06:56.8 - 00:06:57.3] Speaker 1: Par exemple,
+[00:06:57.9 - 00:07:02.8] Speaker 1: dans le cadre d'un apprentissage de la perception pour un véhicule autonome,
+[00:07:03.6 - 00:07:05.5] Speaker 1: on cherche à faire la différence
+[00:07:06.1 - 00:07:10.5] Speaker 1: entre les deux roues, les voitures, les piétons, et l'environnement.
+[00:07:13.4 - 00:07:17.6] Speaker 1: Les enjeux et limites de développement de l'intelligence artificielle.
+[00:07:20.5 - 00:07:25.2] Speaker 1: L'intelligence artificielle se retrouve dans tous les secteurs d'activité:
+[00:07:26.0 - 00:07:27.4] Speaker 1: des transports à la santé
+[00:07:28.9 - 00:07:29.5] Speaker 1: ou l'énergie,
+[00:07:32.5 - 00:07:35.5] Speaker 1: de la finance à l'administration et au commerce.
+[00:07:36.5 - 00:07:37.0] Speaker 1: Son développement
+[00:07:37.7 - 00:07:38.2] Speaker 1: impacte également
+[00:07:40.0 - 00:07:45.7] Speaker 1: l'organisation du travail, qui peut ainsi être facilitée: assistance à l'opérateur pour
+[00:07:46.3 - 00:07:47.3] Speaker 1: les tâches pénibles.
+[00:07:47.8 - 00:07:48.3] Speaker 1: Par exemple,
+[00:07:49.4 - 00:07:50.2] Speaker 1: automatisation
+[00:07:50.8 - 00:07:51.2] Speaker 1: des tâches
+[00:07:51.7 - 00:07:52.5] Speaker 1: répétitives.
+[00:07:53.8 - 00:07:54.7] Speaker 1: L'intégration de plusieurs
+[00:07:55.3 - 00:08:02.2] Speaker 1: briques d'intelligence artificielle aboutit à des innovations de rupture comme le véhicule autonome.
+[00:08:03.9 - 00:08:05.3] Speaker 1: Pour des véhicules autonomes
+[00:08:06.2 - 00:08:12.1] Speaker 1: de niveau 4, c'est-à-dire capables de conduire et prendre toutes les décisions à la place du conducteur
+[00:08:13.9 - 00:08:14.7] Speaker 1: sur des portions
+[00:08:15.7 - 00:08:16.2] Speaker 1: de route
+[00:08:17.4 - 00:08:18.5] Speaker 1: de type autoroute,
+[00:08:19.6 - 00:08:21.1] Speaker 1: l'intelligence artificielle
+[00:08:21.7 - 00:08:24.1] Speaker 1: permettra à la fois d'analyser des textes,
+[00:08:25.2 - 00:08:26.6] Speaker 1: panneaux de signalisation,
+[00:08:27.4 - 00:08:28.1] Speaker 1: et des images
+[00:08:28.7 - 00:08:29.6] Speaker 1: (environnement de la
+[00:08:30.7 - 00:08:31.1] Speaker 1: voiture,
+[00:08:32.0 - 00:08:35.3] Speaker 1: type de panneau) de prendre des décisions en fonction
+[00:08:39.2 - 00:08:39.9] Speaker 1: de l'environnement
+[00:08:40.4 - 00:08:44.2] Speaker 1: et du code de la route, et de conduire à la place de l'homme.
+[00:08:44.8 - 00:08:46.4] Speaker 1: Ces véhicules sont actuellement
+[00:08:47.0 - 00:08:47.5] Speaker 1: au stade de
+[00:08:48.2 - 00:08:48.7] Speaker 1: prototype
+[00:08:49.8 - 00:08:52.4] Speaker 1: et devraient être commercialisés d'ici
+[00:08:55.1 - 00:08:56.8] Speaker 1: qu'ils soient déjà commercialisés.
+[00:08:59.6 - 00:09:01.1] Speaker 1: Les intelligences artificielles
+[00:09:02.6 - 00:09:05.3] Speaker 1: développées aujourd'hui sont dites faibles.
+[00:09:06.3 - 00:09:08.6] Speaker 1: Elles savent au mieux imiter le raisonnement
+[00:09:09.8 - 00:09:10.6] Speaker 1: de l'être humain
+[00:09:11.2 - 00:09:14.6] Speaker 1: et appliquer des protocoles qui guident leurs décisions.
+[00:09:15.6 - 00:09:19.4] Speaker 1: Ces machines semblent agir comme si elles étaient intelligent
+[00:09:19.9 - 00:09:24.0] Speaker 1: es, mais elles montrent leurs limites quand on leur fait passer le test de
+[00:09:24.5 - 00:09:24.8] Speaker 1: Turing.
+[00:09:28.0 - 00:09:29.1] Speaker 1: Le test de Turing,
+[00:09:29.6 - 00:09:32.5] Speaker 1: c'est quoi le test de Turing? Le test de Turing du nom
+[00:09:33.0 - 00:09:33.7] Speaker 1: d'Alan Turing,
+[00:09:35.2 - 00:09:36.8] Speaker 1: pionnier de l'intelligence
+[00:09:37.4 - 00:09:38.2] Speaker 1: artificielle
+[00:09:39.3 - 00:09:42.2] Speaker 1: dans les années 50, et inventeur du test
+[00:09:42.9 - 00:09:44.0] Speaker 1: a pour objectif,
+[00:09:44.8 - 00:09:46.3] Speaker 1: en s'adressant à une machine
+[00:09:47.0 - 00:09:47.8] Speaker 1: et à un humain
+[00:09:48.4 - 00:09:52.0] Speaker 1: lors d'un dialogue, de détecter laquelle est une
+[00:09:52.9 - 00:09:54.1] Speaker 1: intelligence artificielle.
+[00:09:56.6 - 00:09:56.8] Speaker 1: Ce test
+[00:09:57.8 - 00:09:59.3] Speaker 1: simple consiste à mettre
+[00:09:59.8 - 00:10:00.4] Speaker 1: en relation
+[00:10:01.1 - 00:10:02.6] Speaker 1: trois individus: A,
+[00:10:03.2 - 00:10:03.9] Speaker 1: B, et C
+[00:10:04.8 - 00:10:06.1] Speaker 1: via un ordinateur.
+[00:10:07.1 - 00:10:08.5] Speaker 1: A et B parlent tous deux
+[00:10:09.7 - 00:10:10.1] Speaker 1: à C,
+[00:10:10.9 - 00:10:11.8] Speaker 1: qui est un humain,
+[00:10:12.5 - 00:10:14.7] Speaker 1: et qui a pour mission de découvrir qui
+[00:10:16.1 - 00:10:18.5] Speaker 1: est qui de A ou de B n'est pas humain.
+[00:10:19.3 - 00:10:21.5] Speaker 1: Si C n'arrive pas à se décider,
+[00:10:22.1 - 00:10:26.8] Speaker 1: le test de Turing sera réussi, car la machine aura réussi
+[00:10:27.7 - 00:10:28.3] Speaker 1: à parfa
+[00:10:29.0 - 00:10:29.0] Speaker 1: itement
+[00:10:29.9 - 00:10:31.0] Speaker 1: imiter un humain.
+[00:10:35.8 - 00:10:36.6] Speaker 1: Ce test est plus
+[00:10:38.2 - 00:10:39.8] Speaker 1: un défi pour les sciences
+[00:10:41.5 - 00:10:44.9] Speaker 1: informatiques qu'un réel test. L'imitation
+[00:10:46.3 - 00:10:47.2] Speaker 1: de la pensée
+[00:10:47.8 - 00:10:48.2] Speaker 1: humaine
+[00:10:48.8 - 00:10:50.0] Speaker 1: a énormément évolué,
+[00:10:50.7 - 00:10:52.5] Speaker 1: mais reste insuffisante, notamment
+[00:10:53.2 - 00:10:55.3] Speaker 1: en raison de l'absence de conscience de soi.
+[00:11:02.6 - 00:11:02.8] Speaker 1: Voici
+[00:11:06.5 - 00:11:15.2] Speaker 1: l'intelligence artificielle, en parlant maintenant sur l'intelligence artificielle vers une intelligence artificielle égale ou supérieure à un humain.
+[00:11:16.4 - 00:11:21.4] Speaker 1: Si les intelligences artificielles actuelles sont loin d'égaler l'intelligence humaine,
+[00:11:22.0 - 00:11:22.8] Speaker 1: certains chercheurs
+[00:11:23.9 - 00:11:25.1] Speaker 1: estiment que la première
+[00:11:25.6 - 00:11:27.2] Speaker 1: intelligence artificielle dite
+[00:11:27.7 - 00:11:28.2] Speaker 1: « forte »,
+[00:11:29.0 - 00:11:30.6] Speaker 1: qui aurait les mêmes capacités
+[00:11:31.1 - 00:11:34.7] Speaker 1: intellectuelles qu'un être humain ainsi qu'une conscience propre,
+[00:11:35.5 - 00:11:36.7] Speaker 1: pourrait voir le jour
+[00:11:37.3 - 00:11:37.4] Speaker 1: dès
+[00:11:38.7 - 00:11:39.5] Speaker 1: 2045
+[00:11:40.0 - 00:11:40.1] Speaker 1: si
+[00:11:41.1 - 00:11:41.7] Speaker 1: les chercheurs
+[00:11:43.3 - 00:11:45.3] Speaker 1: continuent à progresser à ce rythme.
+[00:11:47.9 - 00:11:50.0] Speaker 1: Que devrait l'homme si l'intelligence
+[00:11:53.6 - 00:11:54.3] Speaker 1: artificielle
+[00:11:54.9 - 00:11:56.1] Speaker 1: avait conscience de sa
+[00:11:57.1 - 00:12:00.1] Speaker 1: supériorité sur l'espace humain?
+[00:12:01.4 - 00:12:02.0] Speaker 1: Cette question,
+[00:12:02.8 - 00:12:04.9] Speaker 1: digne d'un film de science-fiction,
+[00:12:05.7 - 00:12:09.6] Speaker 1: légitime la définition de limites éthiques et égales.
+[00:12:10.6 - 00:12:12.7] Speaker 1: C'est pourquoi l'encadrement législatif
+[00:12:13.7 - 00:12:14.8] Speaker 1: autour de l'intelligence
+[00:12:15.4 - 00:12:18.0] Speaker 1: artificielle est au cœur de nombreux débats,
+[00:12:18.8 - 00:12:19.0] Speaker 1: en France
+[00:12:19.9 - 00:12:21.8] Speaker 1: et dans le monde, afin de définir
+[00:12:22.4 - 00:12:24.7] Speaker 1: les responsabilités légales du comportement
+[00:12:25.5 - 00:12:27.4] Speaker 1: des intelligences artificielles.
+[00:12:29.9 - 00:12:31.0] Speaker 1: Maintenant, on parle sur
+[00:12:32.0 - 00:12:34.8] Speaker 1: cybersécurité et intelligence artificielle.
+[00:12:36.4 - 00:12:38.0] Speaker 1: Une intelligence artificielle
+[00:12:38.7 - 00:12:40.1] Speaker 1: basée sur des logiciels
+[00:12:40.6 - 00:12:41.4] Speaker 1: est potentiellement
+[00:12:41.9 - 00:12:44.8] Speaker 1: vulnérable et peut être ciblée par des
+[00:12:45.4 - 00:12:46.2] Speaker 1: cyberattaques.
+[00:12:47.1 - 00:12:50.5] Speaker 1: Les questions de cybersécurité sont donc primordial
+[00:12:51.1 - 00:12:53.9] Speaker 1: es dans le développement des algorithmes
+[00:12:54.6 - 00:12:54.8] Speaker 1: d'IA,
+[00:12:56.3 - 00:12:56.8] Speaker 1: d'autant plus
+[00:12:57.6 - 00:13:03.4] Speaker 1: lorsque les intelligences artificielles effectuent des actions critiques comme des opérations
+[00:13:03.9 - 00:13:05.3] Speaker 1: chirurgicales robots
+[00:13:06.2 - 00:13:08.0] Speaker 1: ou la gestion de systèmes de production
+[00:13:08.8 - 00:13:09.1] Speaker 1: usine.
+[00:13:09.7 - 00:13:10.6] Speaker 1: Dans ces situations,
+[00:13:12.2 - 00:13:17.0] Speaker 1: un simple piratage informatique peut vite tourner à la catastrophe.
+[00:13:17.6 - 00:13:17.6] Speaker 1: L'
+[00:13:18.2 - 00:13:19.1] Speaker 1: amélioration de
+[00:13:20.0 - 00:13:21.1] Speaker 1: la cybersécurité
+[00:13:22.0 - 00:13:25.7] Speaker 1: des intelligences artificielles est donc une nécessité à leur
+[00:13:27.0 - 00:13:28.3] Speaker 1: démocratisation.
+[00:13:31.4 - 00:13:31.7] Speaker 1: Maintenant,
+[00:13:32.9 - 00:13:34.6] Speaker 1: l'intelligence artificielle
+[00:13:36.0 - 00:13:36.7] Speaker 1: va permettre
+[00:13:37.5 - 00:13:39.8] Speaker 1: l'avènement de l'usine du futur,
+[00:13:41.8 - 00:13:42.1] Speaker 1: même si
+[00:13:42.7 - 00:13:44.2] Speaker 1: le développement et le
+[00:13:44.8 - 00:13:44.9] Speaker 1: per
+[00:13:46.0 - 00:13:46.6] Speaker 1: fectionnement
+[00:13:47.2 - 00:13:50.8] Speaker 1: de l'intelligence artificielle soulèvent des questions éthiques
+[00:13:51.5 - 00:13:52.4] Speaker 1: de sécurité.
+[00:13:53.6 - 00:13:58.1] Speaker 1: L'un de ses enjeux reste d'assister l'homme dans les gestes pénibles, voire
+[00:13:59.0 - 00:13:59.9] Speaker 1: de le remplacer
+[00:14:00.6 - 00:14:03.0] Speaker 1: dans les tâches les plus dangereuses.
+[00:14:03.7 - 00:14:05.3] Speaker 1: La transformation numérique,
+[00:14:05.9 - 00:14:09.0] Speaker 1: et notamment les progrès de la robotique, vont
+[00:14:14.8 - 00:14:15.4] Speaker 1: inévitablement
+[00:14:16.1 - 00:14:17.8] Speaker 1: bouleverser le monde du travail,
+[00:14:19.3 - 00:14:19.4] Speaker 1: en
+[00:14:20.0 - 00:14:22.0] Speaker 1: recentrant les activités humaines
+[00:14:22.6 - 00:14:25.9] Speaker 1: sur les tâches à plus forte valeur ajoutée.
+[00:14:27.5 - 00:14:28.2] Speaker 1: L'accomplissement
+[00:14:29.0 - 00:14:31.8] Speaker 1: des tâches les plus pénibles par des robots
+[00:14:33.0 - 00:14:33.8] Speaker 1: collaboratifs
+[00:14:34.6 - 00:14:35.2] Speaker 1: entraînera aussi
+[00:14:35.9 - 00:14:38.8] Speaker 1: la création de nouveaux postes pour la conception,
+[00:14:40.1 - 00:14:40.7] Speaker 1: la maintenance
+[00:14:41.5 - 00:14:44.4] Speaker 1: et l'exploitation de ces robots intelligents.
+[00:14:45.4 - 00:14:46.1] Speaker 1: Les entreprises
+[00:14:46.9 - 00:14:47.0] Speaker 1: qui
+[00:14:48.2 - 00:14:48.2] Speaker 1: sont
+[00:14:48.8 - 00:14:50.1] Speaker 1: équipées gagneront
+[00:14:51.1 - 00:14:52.0] Speaker 1: en compétitivité
+[00:14:53.0 - 00:14:55.7] Speaker 1: et pourront développer de nouvelles compétences.
+[00:14:56.6 - 00:14:58.3] Speaker 1: L'usine du futur utilise
+[00:14:58.9 - 00:15:03.2] Speaker 1: déjà des intelligences artificielles analysant l'ensemble des données
+[00:15:03.8 - 00:15:05.1] Speaker 1: de l'usine pour permettre
+[00:15:05.8 - 00:15:06.3] Speaker 1: une production
+[00:15:07.0 - 00:15:07.4] Speaker 1: plus respons
+[00:15:08.9 - 00:15:08.9] Speaker 1: able
+[00:15:09.7 - 00:15:10.4] Speaker 1: et économe.
+[00:15:13.9 - 00:15:14.3] Speaker 1: Ressourc
+[00:15:14.9 - 00:15:15.8] Speaker 1: es, conséquences,
+[00:15:16.7 - 00:15:17.6] Speaker 1: moins de déchets
+[00:15:18.4 - 00:15:18.5] Speaker 1: et
+[00:15:19.1 - 00:15:20.9] Speaker 1: de rebuts: une gestion
+[00:15:21.5 - 00:15:26.7] Speaker 1: en temps réel de la production, mais aussi de la consommation en électricité
+[00:15:27.8 - 00:15:28.9] Speaker 1: et matières premières.
+[00:15:32.4 - 00:15:35.0] Speaker 1: Je vois maintenant que l'intelligence artificielle
+[00:15:36.4 - 00:15:36.5] Speaker 1: est
+[00:15:45.2 - 00:15:46.5] Speaker 1: un sujet très important
+[00:15:47.3 - 00:15:47.4] Speaker 1: pour
+[00:15:51.8 - 00:15:53.0] Speaker 1: le développement humain.
+[00:15:54.6 - 00:15:55.2] Speaker 1: Maintenant, je vais
+[00:15:56.6 - 00:15:59.2] Speaker 1: parler de l'intelligence artificielle
+[00:16:00.9 - 00:16:01.0] Speaker 1: d'une
+[00:16:03.0 - 00:16:03.5] Speaker 1: autre façon.
+[00:16:06.5 - 00:16:10.9] Speaker 1: L'intelligence artificielle: une révolution technologique en marche.
+[00:16:11.5 - 00:16:16.4] Speaker 1: L'intelligence artificielle est un domaine de l'informatique qui vise à créer
+[00:16:17.6 - 00:16:18.1] Speaker 1: des machines
+[00:16:18.7 - 00:16:21.4] Speaker 1: capables de simuler l'intelligence humaine.
+[00:16:22.1 - 00:16:24.1] Speaker 1: Depuis ses débuts dans les années
+[00:16:24.7 - 00:16:25.6] Speaker 1: 1950,
+[00:16:26.8 - 00:16:28.5] Speaker 1: l'IA a connu une évolution
+[00:16:29.2 - 00:16:29.8] Speaker 1: fulgurante,
+[00:16:30.7 - 00:16:32.3] Speaker 1: transformant de nombreux secteurs
+[00:16:33.1 - 00:16:34.0] Speaker 1: tels que la santé,
+[00:16:35.0 - 00:16:38.0] Speaker 1: la finance, les transports et l'éducation.
+[00:16:39.8 - 00:16:40.3] Speaker 1: Qu'est-ce que
+[00:16:41.9 - 00:16:43.1] Speaker 1: je vais définir maintenant
+[00:16:43.7 - 00:16:47.7] Speaker 1: l'intelligence artificielle? Qu'est-ce que l'intelligence artificielle?
+[00:16:49.9 - 00:16:59.2] Speaker 1: L'intelligence artificielle est un ensemble de technologies qui permettent aux machines d'apprendre, de raisonner et d'agir de manière autonome.
+[00:17:00.5 - 00:17:05.0] Speaker 1: Elle repose sur des algorithmes complexes qui analysent des données pour
+[00:17:05.5 - 00:17:06.8] Speaker 1: prendre des décisions
+[00:17:07.7 - 00:17:09.7] Speaker 1: ou effectuer des tâches spécifiques.
+[00:17:13.0 - 00:17:16.0] Speaker 1: Maintenant, je vais parler de l'histoire de l'IA,
+[00:17:17.1 - 00:17:19.9] Speaker 1: une chose que je n'ai pas parlée dans
+[00:17:21.2 - 00:17:22.6] Speaker 1: les paragraphes précédents.
+[00:17:25.7 - 00:17:28.3] Speaker 1: De 1950 à 1970:
+[00:17:29.2 - 00:17:33.1] Speaker 1: les débuts de l'IA avec des chercheurs comme Alan Turing
+[00:17:33.8 - 00:17:34.3] Speaker 1: et John
+[00:17:35.0 - 00:17:35.6] Speaker 1: McCarthy.
+[00:17:37.5 - 00:17:38.8] Speaker 1: En 1980
+[00:17:39.3 - 00:17:42.7] Speaker 1: à 1990: l'IA connaît un essor
+[00:17:43.9 - 00:17:44.0] Speaker 1: avec
+[00:17:45.2 - 00:17:47.0] Speaker 1: l'apparition des systèmes experts.
+[00:17:48.1 - 00:17:53.9] Speaker 1: De 2000 à 2010: l'IA se développe avec l'apprentissage automatique et le traitement
+[00:17:54.5 - 00:17:55.6] Speaker 1: du langage naturel.
+[00:17:57.3 - 00:17:58.3] Speaker 1: De 2010 à 2
+[00:17:59.5 - 00:18:01.1] Speaker 1: 020: l'IA devient
+[00:18:02.2 - 00:18:02.9] Speaker 1: omniprésente
+[00:18:04.2 - 00:18:05.1] Speaker 1: avec l'apparition
+[00:18:05.9 - 00:18:07.6] Speaker 1: des assistants virtuels
+[00:18:08.1 - 00:18:09.5] Speaker 1: et des voitures autonomes.
+[00:18:12.7 - 00:18:13.4] Speaker 1: Type d'IA:
+[00:18:14.2 - 00:18:14.9] Speaker 1: IA faible,
+[00:18:15.5 - 00:18:19.0] Speaker 1: conçue pour effectuer une tâche spécifique comme jouer
+[00:18:19.7 - 00:18:20.3] Speaker 1: aux échecs
+[00:18:21.1 - 00:18:22.6] Speaker 1: ou reconnaître des visages.
+[00:18:23.5 - 00:18:26.8] Speaker 1: IA forte, capable de réaliser n'importe quelle tâche
+[00:18:28.0 - 00:18:29.4] Speaker 1: cognitive humaine.
+[00:18:30.7 - 00:18:31.7] Speaker 1: Superintelligence:
+[00:18:32.8 - 00:18:36.1] Speaker 1: dépasse l'intelligence humaine dans tous les domaines.
+[00:18:37.7 - 00:18:39.1] Speaker 1: Apparition de l'IA: santé,
+[00:18:40.5 - 00:18:43.6] Speaker 1: aide de diagnostic, découverte de médicaments, person
+[00:18:44.8 - 00:18:46.9] Speaker 1: nalisation des traitements. Transport:
+[00:18:48.5 - 00:18:52.6] Speaker 1: dans le domaine des transports, voitures autonomes, gestion du trafic. Dans le
+[00:18:53.3 - 00:18:53.5] Speaker 1: domaine
+[00:18:54.2 - 00:18:54.8] Speaker 1: de l'éducation:
+[00:18:55.8 - 00:18:59.0] Speaker 1: personnalisation de l'apprentissage, outils de soutien.
+[00:18:59.6 - 00:19:04.0] Speaker 1: Dans le domaine des finances: détection de fraude, gestion de portefeuilles.
+[00:19:04.9 - 00:19:05.5] Speaker 1: Dans le domaine
+[00:19:06.3 - 00:19:06.7] Speaker 1: industriel:
+[00:19:08.6 - 00:19:11.1] Speaker 1: maintenance prédictive, optimisation de production.
+[00:19:12.0 - 00:19:12.9] Speaker 1: Enjeux et défis:
+[00:19:18.4 - 00:19:21.5] Speaker 1: le défi éthique: responsabilité, biais,
+[00:19:22.2 - 00:19:23.2] Speaker 1: confidentialité.
+[00:19:24.5 - 00:19:24.8] Speaker 1: Le défi
+[00:19:25.3 - 00:19:27.1] Speaker 1: économique: impact sur l'emploi,
+[00:19:28.9 - 00:19:29.7] Speaker 1: inégalité.
+[00:19:32.5 - 00:19:32.8] Speaker 1: Le défi
+[00:19:33.4 - 00:19:34.8] Speaker 1: sécurité: risque de
+[00:19:35.4 - 00:19:36.1] Speaker 1: cyberattaque,
+[00:19:37.2 - 00:19:38.4] Speaker 1: utilisation militaire.
+[00:19:39.1 - 00:19:43.7] Speaker 1: Défi réglementation: besoin de cadres pour encadrer l'utilisation de l'IA.
+[00:19:45.3 - 00:19:46.8] Speaker 1: L'exemple concret:
+[00:19:48.1 - 00:19:49.1] Speaker 1: assistants virtuels
+[00:19:49.7 - 00:19:52.0] Speaker 1: Siri, Alexa, Google Assistant.
+[00:19:56.0 - 00:19:58.9] Speaker 1: L'exemple: voitures autonomes, Waymo, Tesla.
+[00:20:00.5 - 00:20:03.7] Speaker 1: Exemple sur système de recommandation Netflix, Amazon.
+[00:20:07.2 - 00:20:07.3] Speaker 1: Je
+[00:20:07.9 - 00:20:09.5] Speaker 1: vais parler de l'avenir de l'IA.
+[00:20:10.2 - 00:20:10.5] Speaker 1: L'IA
+[00:20:11.0 - 00:20:13.9] Speaker 1: est en constante évolution. Les prochaines étapes
+[00:20:14.4 - 00:20:19.9] Speaker 1: incluent: IA générale: capacité à réaliser n'importe quelle tâche cognitive humaine.
+[00:20:20.9 - 00:20:24.6] Speaker 1: IA superintelligence: dépasser l'intelligence humaine
+[00:20:25.2 - 00:20:26.0] Speaker 1: dans tous les domaines.
+[00:20:27.1 - 00:20:32.4] Speaker 1: L'IA éthique et réglementation: développement de cadres pour une utilisation responsable de l'IA.
+[00:20:33.2 - 00:20:33.8] Speaker 1: Conclusion:
+[00:20:34.4 - 00:20:34.7] Speaker 1: l'IA
+[00:20:35.2 - 00:20:37.9] Speaker 1: est une technologie puissante qui peut apporter
+[00:20:38.6 - 00:20:39.8] Speaker 1: de nombreux bénéfices,
+[00:20:41.2 - 00:20:43.6] Speaker 1: mais elle nécessite une réflexion approfondie
+[00:20:44.2 - 00:20:45.4] Speaker 1: sur ses applications
+[00:20:46.2 - 00:20:46.8] Speaker 1: sociétables.
+[00:20:47.6 - 00:20:54.4] Speaker 1: Il est crucial de développer des cadres éthiques et réglementaires pour une utilisation responsable de l'IA.
